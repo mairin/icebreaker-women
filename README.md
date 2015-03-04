@@ -15,6 +15,8 @@ jar or such and have some kind of raffle.
 You can take this game a lot of different ways, but it's a good, low-stress way
 for a group of people to network and meet others.
 
+<img src="https://github.com/mairin/icebreaker-women/blob/master/photo.jpg?raw=true">
+
 # How the files work
 
 Basically there's a LibreOffice Calc spreadsheet (the ODS file) that has the
