@@ -1,7 +1,7 @@
 # icebreaker-women
 "Who Am I?" Icebreaker cards featuring female leaders. The game goes like this:
 
-- You print out the cards and cut them out.
+- You print out the cards and cut them out. (Grab the PDF from this repo)
 - As participants enter the meeting / networking event / etc., you tape one of 
 the cards to their back (don't let them know what theirs says!)
 - The participants can begin to mingle by asking others questions about the
